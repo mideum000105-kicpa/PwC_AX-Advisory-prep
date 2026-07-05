@@ -10,15 +10,11 @@
 
 ## 우선순위 매트릭스 (Impact vs Feasibility)
 
-​```mermaid
-quadrantChart
-    title Pain Point 우선순위
-    x-axis Low Feasibility --> High Feasibility
-    y-axis Low Impact --> High Impact
-    quadrant-1 Quick Win
-    quadrant-2 Strategic Bet
-    quadrant-3 Deprioritize
-    quadrant-4 Fill-in
-    "PP2 데이터 표준화": [0.75, 0.65]
-    "PP1 Vision AI 검사": [0.45, 0.85]
-    "PP3 실시간 이상탐지": [0.35, 0.6]
+|  | **Low Feasibility** | **High Feasibility** |
+|---|---|---|
+| **High Impact** | PP1. Vision AI 검사 도입 *(Strategic Bet)* | PP2. 데이터 표준화 *(Quick Win)* |
+| **Low Impact** | — | PP3. 실시간 이상탐지 *(Fill-in)* |
+
+- **Quick Win**: PP2 (데이터 표준화) — 구현 난이도 낮고, 다른 과제의 전제조건
+- **Strategic Bet**: PP1 (Vision AI 검사) — 효과는 크지만 데이터 확보·모델 검증에 시간 소요
+- **Fill-in**: PP3 (실시간 이상탐지) — PP2 완료 후 진행 시 상대적으로 부담 적음
