@@ -3,7 +3,7 @@
 ## 프로젝트 개요
 삼일PwC AX Advisory 부문 지원을 위한 자기주도 프로젝트
 비즈니스 프로세스 분석을 통해 Pain Point를 도출하고,
-Digital/AI/Automation 기반 개선 방안을 제안하는 과정을 기록할 예정
+Digital/AI/Automation 기반 개선 방안을 제안하는 과정을 기록할 예정입니다.
 
 ## 목표
 - 특정 산업/기업의 As-Is 프로세스 분석
