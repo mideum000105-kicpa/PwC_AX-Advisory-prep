@@ -1,9 +1,9 @@
 # PwC_AX-Advisory-prep
-삼일PwC AX Advisory 지원 준비 프로젝트 - 프로세스 분석 및 솔루션 제안
+삼일PwC AX Advisory 입사지원을 위한 프로젝트 - 프로세스 분석 및 솔루션 제안
 ## 프로젝트 개요
-삼일PwC AX Advisory 부문 지원을 위한 자기주도 프로젝트입니다.
+삼일PwC AX Advisory 부문 지원을 위한 자기주도 프로젝트
 비즈니스 프로세스 분석을 통해 Pain Point를 도출하고,
-Digital/AI/Automation 기반 개선 방안을 제안하는 과정을 기록합니다.
+Digital/AI/Automation 기반 개선 방안을 제안하는 과정을 기록할 예정
 
 ## 목표
 - 특정 산업/기업의 As-Is 프로세스 분석
